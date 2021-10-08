@@ -1,4 +1,4 @@
-### Hi I'm Tianhe Wu 👋
+### Hi, I'm Tianhe Wu 👋
 
 - 🔭 I’m currently working in [BJUT](https://www.bjut.edu.cn/) and [SIGS](https://www.sigs.tsinghua.edu.cn/)
 - 🌱 I’m currently learning computer vision and natural language processing
