@@ -6,6 +6,6 @@
 
 :snake: **Researching Repository**
 | Topic        | Title           | Details           |
-| :-------------: |:-------------:| :-------------: |
-| Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      | We won **first place** in the competition ***NTIRE22 No-Reference Image Quality Assessment***|
+| ------------- |-------------| :-------------: |
+| Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      | We won **first place** in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference competition***|
 | Grasping Detection      | [[IROS 22] LGPNet: Alleviating A Few Labeled Data and Large-Scale Network Dilemmas in Grasping Detection](https://github.com/TianheWu/LGPNet)  | My graduation project Capstone in ***Fangong Xiu Honnors Colledge***|
