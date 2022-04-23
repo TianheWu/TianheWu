@@ -10,7 +10,7 @@
 - 📫 How to reach me: tianhe_wu@foxmail.com & tianhe_wu@emails.bjut.edu.cn
 
 :snake: **Researching Repository**
-| Topic        | Title           | Details           |
-| ------------- |:-------------:| :-------------: |
-| Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      | We won **first place** in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference competition***|
-| Grasping Detection      | [[IROS 22] LGPNet: Alleviating A Few Labeled Data and Large-Scale Network Dilemmas in Grasping Detection](https://github.com/TianheWu/LGPNet)  | My graduation project Capstone in ***Fangong Xiu Honors Colledge***|
+| Topic        | Title           | Authors           | Details           |
+| ------------- |:-------------:|------------- | :-------------: |
+| Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      |   Sidi Yang*, Tianhe Wu*, Shuwei Shi, Shanshan Lao, Yuan Gong, Mingdeng Cao, Jiahao Wang, Yujiu Yang (Corresponding author) | We won **first place** in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference competition***|
+| Grasping Detection      | [[IROS 22] LGPNet: Alleviating A Few Labeled Data and Large-Scale Network Dilemmas in Grasping Detection](https://github.com/TianheWu/LGPNet)  | Tianhe Wu*, Hongbo Chu*, Fan Bai, Wenxing Liu, Dan Wang (Corresponding author)| My graduation project Capstone in ***Beijing University of Technology Fangong Xiu Honors Colledge***|
