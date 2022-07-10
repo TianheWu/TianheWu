@@ -5,13 +5,12 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TianheWu/TianheWu)
 [![GitHub Followers](https://img.shields.io/github/followers/TianheWu?style=social)](https://github.com/TianheWu)
 
-- 🔭 I’m currently working in [BJUT](https://www.bjut.edu.cn/) and [SIGS](https://www.sigs.tsinghua.edu.cn/)
-- 🌱 Fields: **Image Quality Assessment and Super Resolution**
-- 📫 How to reach me: tianhe_wu@foxmail.com & tianhe_wu@emails.bjut.edu.cn
+- Graduate student at Tsinghua University
+- Fields: **Image Quality Assessment and Super Resolution**
+- How to reach me: tianhe_wu@foxmail.com & wth22@mails.tsinghua.edu.cn
 
-:snake: **Researching Repository**
+**Researching Repository**
 | Topic        | Title           | Details           |
 | ------------- |-------------|-------------|
 | Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      |    We won first place in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference competition***|
 | Image Quality Assessment| [[CVPRW 22] Attention Helps CNN See Better: Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ)      |    We won first place in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 1 Full-Reference competition***|
-| Grasping Detection      | [[IROS 22] LGPNet: Alleviating A Few Labeled Data and Large-Scale Network Dilemmas in Grasping Detection](https://github.com/TianheWu/LGPNet) |  My graduation project Capstone in Beijing University of Technology Fangong Xiu Honors Colledge|
