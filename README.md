@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TianheWu/TianheWu)
 [![GitHub Followers](https://img.shields.io/github/followers/TianheWu?style=social)](https://github.com/TianheWu)
 
-- Graduate student at Tsinghua University
+- Postgraduate student at Tsinghua University
 - Fields: **Image Quality Assessment and Super Resolution**
 - How to reach me: tianhe_wu@foxmail.com & wth22@mails.tsinghua.edu.cn
 
