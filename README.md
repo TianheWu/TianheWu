@@ -6,7 +6,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/TianheWu?style=social)](https://github.com/TianheWu)
 
 - Postgraduate student at Tsinghua University
-- Fields: **Image Quality Assessment and Super Resolution**
+- Fields: **Image Quality Assessment and Perceptual Optimization**
 - How to reach me: tianhe_wu@foxmail.com & wth22@mails.tsinghua.edu.cn
 
 **Researching Repository**
