@@ -12,5 +12,6 @@
 **Researching Repository**
 | Topic        | Title           | Details           |
 | ------------- |-------------|-------------|
-| Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      |    We won first place in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference competition***|
-| Image Quality Assessment| [[CVPRW 22] Attention Helps CNN See Better: Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ)      |    We won first place in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 1 Full-Reference competition***|
+| Omnidirectional Image Quality Assessment| [Assessor360: Multi-sequence Network for Blind Omnidirectional Image Quality Assessment](https://github.com/TianheWu/Assessor360/tree/master)      |    We focus on solving the quality assessment issues in **novel scenario (VR)** |
+| Image Quality Assessment| [[CVPRW 22] MANIQA: Multi-dimension Attention Network for No-Reference Image Quality Assessment](https://github.com/IIGROUP/MANIQA)      |    We won the first place in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 2 No-Reference competition***|
+| Image Quality Assessment| [[CVPRW 22] Attention Helps CNN See Better: Hybrid Image Quality Assessment Network](https://github.com/IIGROUP/AHIQ)      |    We won the first place in the ***NTIRE2022 Perceptual Image Quality Assessment Challenge Track 1 Full-Reference competition***|
