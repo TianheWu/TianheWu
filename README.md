@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/-tianhe_wu@foxmail.com-green?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:tianhe_wu@foxmail.com)](tianhe_wu@foxmail.com)
 [![ZhiHu](https://img.shields.io/badge/Intro-ZhiHu-blue)](https://www.zhihu.com/people/ru-ci-zhe-ban-91-2)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TianheWu/TianheWu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TianheWu/TianheWu)
 [![GitHub Followers](https://img.shields.io/github/followers/TianheWu?style=social)](https://github.com/TianheWu)
 
 - Postgraduate student at Tsinghua University
