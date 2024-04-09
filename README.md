@@ -7,7 +7,7 @@
 
 - Postgraduate student at Tsinghua University
 - Fields: **Image Quality Assessment and Perceptual Optimization**
-- How to reach me: tianhe_wu@foxmail.com & wth22@mails.tsinghua.edu.cn
+- How to reach me: wth22@mails.tsinghua.edu.cn
 
 **Researching Repository**
 | Topic        | Title           | Details           |
