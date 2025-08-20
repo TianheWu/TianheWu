@@ -7,8 +7,8 @@
 
 - [Homepage](https://tianhewu.github.io/tianhe-page/)
 - Postgraduate student at Tsinghua University
-- Fields: **Image Quality Assessment and Perceptual Optimization**
-- How to reach me: wth22@mails.tsinghua.edu.cn
+- Fields: **RL, LLM, VLM**
+- How to reach me: tianhewu-c@my.cityu.edu.hk
 
 **Researching Repository**
 | Topic        | Title           | Details           |
