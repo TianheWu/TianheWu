@@ -7,5 +7,5 @@
 - Researcher in OPPO Research Institute VC-Lab, supervised by Lei Zhang
 - PhD in City University of Hong Kong
 - Postgraduate student at Tsinghua University
-- Fields: **RL, LLM, VLM**
+- Fields: **RL, LLM, VLM, and Low-level vision**
 - How to reach me: tianhewu-c@my.cityu.edu.hk
